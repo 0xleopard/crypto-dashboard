@@ -47,7 +47,7 @@ function EditProfileTab() {
                 </Grid>
                 <Grid item xs={12} sm={8} md={9}>
                   <Text color="black">
-                    <b>Tyler Kotto</b>
+                    <b>Leo Young</b>
                   </Text>
                 </Grid>
                 {/* <Grid item xs={12} sm={4} md={3} textAlign={{ sm: 'right' }}>

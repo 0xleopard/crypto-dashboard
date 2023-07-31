@@ -47,7 +47,7 @@ const CardWrapperSecondary = styled(Card)(
 
 function ChatContent() {
   const user = {
-    name: 'Tyler Kotto',
+    name: 'Leo Young',
     avatar: '/static/images/avatars/1.jpg'
   };
 
@@ -69,7 +69,7 @@ function ChatContent() {
             width: 50,
             height: 50
           }}
-          alt="Tyler Kotto"
+          alt="Leo Young"
           src="/static/images/avatars/2.jpg"
         />
         <Box
@@ -216,7 +216,7 @@ function ChatContent() {
             width: 50,
             height: 50
           }}
-          alt="Tyler Kotto"
+          alt="Leo Young"
           src="/static/images/avatars/2.jpg"
         />
         <Box

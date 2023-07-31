@@ -27,7 +27,7 @@ function BottomBarContent() {
   const theme = useTheme();
 
   const user = {
-    name: 'Tyler Kotto',
+    name: 'Leo Young',
     avatar: '/static/images/avatars/1.jpg'
   };
 

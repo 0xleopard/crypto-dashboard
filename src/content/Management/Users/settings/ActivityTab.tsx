@@ -38,7 +38,7 @@ function ActivityTab() {
         }
         titleTypographyProps={{ variant: 'h4' }}
         subheaderTypographyProps={{ variant: 'subtitle2' }}
-        title="Tyler Kotto"
+        title="Leo Young"
         subheader={
           <>
             Full Stack Engineer,{' '}

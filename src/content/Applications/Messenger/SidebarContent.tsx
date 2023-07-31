@@ -94,7 +94,7 @@ const TabsContainerWrapper = styled(Box)(
 
 function SidebarContent() {
   const user = {
-    name: 'Tyler Kotto',
+    name: 'Leo Young',
     avatar: '/static/images/avatars/1.jpg',
     jobtitle: 'Full Stack Engineer'
   };
@@ -232,7 +232,7 @@ function SidebarContent() {
                   color: 'textSecondary',
                   noWrap: true
                 }}
-                primary="Tyler Kotto"
+                primary="Leo Young"
                 secondary="Hey there, how are you today? Is it ok if I call you?"
               />
               <Label color="primary">
@@ -326,7 +326,7 @@ function SidebarContent() {
                   color: 'textSecondary',
                   noWrap: true
                 }}
-                primary="Tyler Kotto"
+                primary="Leo Young"
                 secondary="Hey there, how are you today? Is it ok if I call you?"
               />
               <Label color="primary">

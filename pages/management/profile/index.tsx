@@ -14,7 +14,7 @@ import Addresses from '@/content/Management/Users/details/Addresses';
 function ManagementUserProfile() {
   const user = {
     savedCards: 7,
-    name: 'Tyler Kotto',
+    name: 'Leo Young',
     coverImg: '/static/images/placeholders/covers/5.jpeg',
     avatar: '/static/images/avatars/4.jpg',
     description:

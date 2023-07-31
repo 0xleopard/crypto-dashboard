@@ -108,11 +108,11 @@ function TopBarContent() {
               width: 48,
               height: 48
             }}
-            alt="Tyler Kotto"
+            alt="Leo Young"
             src="/static/images/avatars/1.jpg"
           />
           <Box ml={1}>
-            <Typography variant="h4">Tyler Kotto</Typography>
+            <Typography variant="h4">Leo Young</Typography>
             <Typography variant="subtitle1">
               {formatDistance(subMinutes(new Date(), 8), new Date(), {
                 addSuffix: true
@@ -171,10 +171,10 @@ function TopBarContent() {
                 height: theme.spacing(12)
               }}
               variant="rounded"
-              alt="Tyler Kotto"
+              alt="Leo Young"
               src="/static/images/avatars/1.jpg"
             />
-            <Typography variant="h4">Tyler Kotto</Typography>
+            <Typography variant="h4">Leo Young</Typography>
             <Typography variant="subtitle2">
               Active{' '}
               {formatDistance(subMinutes(new Date(), 7), new Date(), {

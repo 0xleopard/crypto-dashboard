@@ -3,7 +3,7 @@ import { useTheme } from '@mui/material/styles';
 
 function PageHeader() {
   const user = {
-    name: 'Tyler Kotto',
+    name: 'Leo Young',
     avatar: '/static/images/avatars/1.jpg'
   };
   const theme = useTheme();

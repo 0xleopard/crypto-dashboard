@@ -2,7 +2,7 @@ import { Typography } from '@mui/material';
 
 function PageHeader() {
   const user = {
-    name: 'Tyler Kotto',
+    name: 'Leo Young',
     avatar: '/static/images/avatars/1.jpg'
   };
 
